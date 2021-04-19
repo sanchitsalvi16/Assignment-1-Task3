@@ -1,0 +1,3 @@
+Select metabolism from annotation2
+group by metabolism
+having count(metabolism)>1;
